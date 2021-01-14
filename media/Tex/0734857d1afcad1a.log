@@ -1,0 +1,546 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=latex 2020.6.27)  8 JAN 2021 22:25
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**media/Tex/0734857d1afcad1a.tex
+(./media/Tex/0734857d1afcad1a.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-06-18> (c:/texlive/2020/texmf-dist/tex/latex/standal
+one/standalone.cls
+Document Class: standalone 2018/03/26 v1.3a Class to compile TeX sub-files stan
+dalone
+(c:/texlive/2020/texmf-dist/tex/latex/tools/shellesc.sty
+Package: shellesc 2019/11/08 v1.0c unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 77.
+) (c:/texlive/2020/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+(c:/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)) (c:/texlive/2020/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+(c:/texlive/2020/texmf-dist/tex/generic/xkeyval/xkeyval.tex (c:/texlive/2020/te
+xmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks15
+\XKV@tempa@toks=\toks16
+(c:/texlive/2020/texmf-dist/tex/generic/xkeyval/keyval.tex))
+\XKV@depth=\count167
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+\sa@internal=\count168
+\c@sapage=\count169
+(c:/texlive/2020/texmf-dist/tex/latex/standalone/standalone.cfg
+File: standalone.cfg 2018/03/26 v1.3a Default configuration file for 'standalon
+e' class
+) (c:/texlive/2020/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(c:/texlive/2020/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count170
+\c@section=\count171
+\c@subsection=\count172
+\c@subsubsection=\count173
+\c@paragraph=\count174
+\c@subparagraph=\count175
+\c@figure=\count176
+\c@table=\count177
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+) (c:/texlive/2020/texmf-dist/tex/latex/preview/preview.sty
+Package: preview 2017/04/24 12.2 (AUCTeX/preview-latex)
+(c:/texlive/2020/texmf-dist/tex/generic/luatex85/luatex85.sty
+Package: luatex85 2016/06/15 v1.4 pdftex aliases for luatex
+) (c:/texlive/2020/texmf-dist/tex/latex/preview/prtightpage.def
+\PreviewBorder=\dimen135
+)
+\pr@snippet=\count178
+\pr@box=\box45
+\pr@output=\toks17
+)) (c:/texlive/2020/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2020/06/10 3.45 The Babel package
+(c:/texlive/2020/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2020/06/10 3.45 Babel common definitions
+\babel@savecnt=\count179
+\U@D=\dimen136
+\l@babelnohyphens=\language86
+(c:/texlive/2020/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count180
+(c:/texlive/2020/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: \l@canadian = using hyphenrules for english
+(babel)             (\language0) on input line 102.
+Package babel Info: \l@australian = using hyphenrules for ukenglish
+(babel)             (\language21) on input line 105.
+Package babel Info: \l@newzealand = using hyphenrules for ukenglish
+(babel)             (\language21) on input line 108.
+) (c:/texlive/2020/texmf-dist/tex/generic/babel-russian/russianb.ldf
+Language: russian 2017/08/12 1.3j Russian support for the Babel system
+
+Package babel Warning: No Cyrillic font encoding has been loaded so far.
+(babel)                A font encoding should be declared before babel.
+(babel)                Default `T2A' encoding will be loaded  on input line 74.
+
+
+(c:/texlive/2020/texmf-dist/tex/latex/cyrillic/t2aenc.def
+File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
+Now handling font encoding T2A ...
+... processing UTF-8 mapping file for font encoding T2A
+(c:/texlive/2020/texmf-dist/tex/latex/base/t2aenc.dfu
+File: t2aenc.dfu 2019/11/14 v1.2k UTF-8 support for inputenc
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0237 (decimal 567)
+   defining Unicode char U+0400 (decimal 1024)
+   defining Unicode char U+0401 (decimal 1025)
+   defining Unicode char U+0402 (decimal 1026)
+   defining Unicode char U+0403 (decimal 1027)
+   defining Unicode char U+0404 (decimal 1028)
+   defining Unicode char U+0405 (decimal 1029)
+   defining Unicode char U+0406 (decimal 1030)
+   defining Unicode char U+0407 (decimal 1031)
+   defining Unicode char U+0408 (decimal 1032)
+   defining Unicode char U+0409 (decimal 1033)
+   defining Unicode char U+040A (decimal 1034)
+   defining Unicode char U+040B (decimal 1035)
+   defining Unicode char U+040C (decimal 1036)
+   defining Unicode char U+040D (decimal 1037)
+   defining Unicode char U+040E (decimal 1038)
+   defining Unicode char U+040F (decimal 1039)
+   defining Unicode char U+0410 (decimal 1040)
+   defining Unicode char U+0411 (decimal 1041)
+   defining Unicode char U+0412 (decimal 1042)
+   defining Unicode char U+0413 (decimal 1043)
+   defining Unicode char U+0414 (decimal 1044)
+   defining Unicode char U+0415 (decimal 1045)
+   defining Unicode char U+0416 (decimal 1046)
+   defining Unicode char U+0417 (decimal 1047)
+   defining Unicode char U+0418 (decimal 1048)
+   defining Unicode char U+0419 (decimal 1049)
+   defining Unicode char U+041A (decimal 1050)
+   defining Unicode char U+041B (decimal 1051)
+   defining Unicode char U+041C (decimal 1052)
+   defining Unicode char U+041D (decimal 1053)
+   defining Unicode char U+041E (decimal 1054)
+   defining Unicode char U+041F (decimal 1055)
+   defining Unicode char U+0420 (decimal 1056)
+   defining Unicode char U+0421 (decimal 1057)
+   defining Unicode char U+0422 (decimal 1058)
+   defining Unicode char U+0423 (decimal 1059)
+   defining Unicode char U+0424 (decimal 1060)
+   defining Unicode char U+0425 (decimal 1061)
+   defining Unicode char U+0426 (decimal 1062)
+   defining Unicode char U+0427 (decimal 1063)
+   defining Unicode char U+0428 (decimal 1064)
+   defining Unicode char U+0429 (decimal 1065)
+   defining Unicode char U+042A (decimal 1066)
+   defining Unicode char U+042B (decimal 1067)
+   defining Unicode char U+042C (decimal 1068)
+   defining Unicode char U+042D (decimal 1069)
+   defining Unicode char U+042E (decimal 1070)
+   defining Unicode char U+042F (decimal 1071)
+   defining Unicode char U+0430 (decimal 1072)
+   defining Unicode char U+0431 (decimal 1073)
+   defining Unicode char U+0432 (decimal 1074)
+   defining Unicode char U+0433 (decimal 1075)
+   defining Unicode char U+0434 (decimal 1076)
+   defining Unicode char U+0435 (decimal 1077)
+   defining Unicode char U+0436 (decimal 1078)
+   defining Unicode char U+0437 (decimal 1079)
+   defining Unicode char U+0438 (decimal 1080)
+   defining Unicode char U+0439 (decimal 1081)
+   defining Unicode char U+043A (decimal 1082)
+   defining Unicode char U+043B (decimal 1083)
+   defining Unicode char U+043C (decimal 1084)
+   defining Unicode char U+043D (decimal 1085)
+   defining Unicode char U+043E (decimal 1086)
+   defining Unicode char U+043F (decimal 1087)
+   defining Unicode char U+0440 (decimal 1088)
+   defining Unicode char U+0441 (decimal 1089)
+   defining Unicode char U+0442 (decimal 1090)
+   defining Unicode char U+0443 (decimal 1091)
+   defining Unicode char U+0444 (decimal 1092)
+   defining Unicode char U+0445 (decimal 1093)
+   defining Unicode char U+0446 (decimal 1094)
+   defining Unicode char U+0447 (decimal 1095)
+   defining Unicode char U+0448 (decimal 1096)
+   defining Unicode char U+0449 (decimal 1097)
+   defining Unicode char U+044A (decimal 1098)
+   defining Unicode char U+044B (decimal 1099)
+   defining Unicode char U+044C (decimal 1100)
+   defining Unicode char U+044D (decimal 1101)
+   defining Unicode char U+044E (decimal 1102)
+   defining Unicode char U+044F (decimal 1103)
+   defining Unicode char U+0450 (decimal 1104)
+   defining Unicode char U+0451 (decimal 1105)
+   defining Unicode char U+0452 (decimal 1106)
+   defining Unicode char U+0453 (decimal 1107)
+   defining Unicode char U+0454 (decimal 1108)
+   defining Unicode char U+0455 (decimal 1109)
+   defining Unicode char U+0456 (decimal 1110)
+   defining Unicode char U+0457 (decimal 1111)
+   defining Unicode char U+0458 (decimal 1112)
+   defining Unicode char U+0459 (decimal 1113)
+   defining Unicode char U+045A (decimal 1114)
+   defining Unicode char U+045B (decimal 1115)
+   defining Unicode char U+045C (decimal 1116)
+   defining Unicode char U+045D (decimal 1117)
+   defining Unicode char U+045E (decimal 1118)
+   defining Unicode char U+045F (decimal 1119)
+   defining Unicode char U+0490 (decimal 1168)
+   defining Unicode char U+0491 (decimal 1169)
+   defining Unicode char U+0492 (decimal 1170)
+   defining Unicode char U+0493 (decimal 1171)
+   defining Unicode char U+0496 (decimal 1174)
+   defining Unicode char U+0497 (decimal 1175)
+   defining Unicode char U+0498 (decimal 1176)
+   defining Unicode char U+0499 (decimal 1177)
+   defining Unicode char U+049A (decimal 1178)
+   defining Unicode char U+049B (decimal 1179)
+   defining Unicode char U+049C (decimal 1180)
+   defining Unicode char U+049D (decimal 1181)
+   defining Unicode char U+04A0 (decimal 1184)
+   defining Unicode char U+04A1 (decimal 1185)
+   defining Unicode char U+04A2 (decimal 1186)
+   defining Unicode char U+04A3 (decimal 1187)
+   defining Unicode char U+04A4 (decimal 1188)
+   defining Unicode char U+04A5 (decimal 1189)
+   defining Unicode char U+04AA (decimal 1194)
+   defining Unicode char U+04AB (decimal 1195)
+   defining Unicode char U+04AE (decimal 1198)
+   defining Unicode char U+04AF (decimal 1199)
+   defining Unicode char U+04B0 (decimal 1200)
+   defining Unicode char U+04B1 (decimal 1201)
+   defining Unicode char U+04B2 (decimal 1202)
+   defining Unicode char U+04B3 (decimal 1203)
+   defining Unicode char U+04B6 (decimal 1206)
+   defining Unicode char U+04B7 (decimal 1207)
+   defining Unicode char U+04B8 (decimal 1208)
+   defining Unicode char U+04B9 (decimal 1209)
+   defining Unicode char U+04BA (decimal 1210)
+   defining Unicode char U+04BB (decimal 1211)
+   defining Unicode char U+04C0 (decimal 1216)
+   defining Unicode char U+04C1 (decimal 1217)
+   defining Unicode char U+04C2 (decimal 1218)
+   defining Unicode char U+04D0 (decimal 1232)
+   defining Unicode char U+04D1 (decimal 1233)
+   defining Unicode char U+04D2 (decimal 1234)
+   defining Unicode char U+04D3 (decimal 1235)
+   defining Unicode char U+04D4 (decimal 1236)
+   defining Unicode char U+04D5 (decimal 1237)
+   defining Unicode char U+04D6 (decimal 1238)
+   defining Unicode char U+04D7 (decimal 1239)
+   defining Unicode char U+04D8 (decimal 1240)
+   defining Unicode char U+04D9 (decimal 1241)
+   defining Unicode char U+04DA (decimal 1242)
+   defining Unicode char U+04DB (decimal 1243)
+   defining Unicode char U+04DC (decimal 1244)
+   defining Unicode char U+04DD (decimal 1245)
+   defining Unicode char U+04DE (decimal 1246)
+   defining Unicode char U+04DF (decimal 1247)
+   defining Unicode char U+04E2 (decimal 1250)
+   defining Unicode char U+04E3 (decimal 1251)
+   defining Unicode char U+04E4 (decimal 1252)
+   defining Unicode char U+04E5 (decimal 1253)
+   defining Unicode char U+04E6 (decimal 1254)
+   defining Unicode char U+04E7 (decimal 1255)
+   defining Unicode char U+04E8 (decimal 1256)
+   defining Unicode char U+04E9 (decimal 1257)
+   defining Unicode char U+04EC (decimal 1260)
+   defining Unicode char U+04ED (decimal 1261)
+   defining Unicode char U+04EE (decimal 1262)
+   defining Unicode char U+04EF (decimal 1263)
+   defining Unicode char U+04F0 (decimal 1264)
+   defining Unicode char U+04F1 (decimal 1265)
+   defining Unicode char U+04F2 (decimal 1266)
+   defining Unicode char U+04F3 (decimal 1267)
+   defining Unicode char U+04F4 (decimal 1268)
+   defining Unicode char U+04F5 (decimal 1269)
+   defining Unicode char U+04F8 (decimal 1272)
+   defining Unicode char U+04F9 (decimal 1273)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+2423 (decimal 9251)
+   defining Unicode char U+27E8 (decimal 10216)
+   defining Unicode char U+27E9 (decimal 10217)
+   defining Unicode char U+FB00 (decimal 64256)
+   defining Unicode char U+FB01 (decimal 64257)
+   defining Unicode char U+FB02 (decimal 64258)
+   defining Unicode char U+FB03 (decimal 64259)
+   defining Unicode char U+FB04 (decimal 64260)
+   defining Unicode char U+FB05 (decimal 64261)
+   defining Unicode char U+FB06 (decimal 64262)
+))
+Package babel Info: Making " an active character on input line 120.
+Package babel Info: Default for \cyrdash is provided on input line 157.
+)) (c:/texlive/2020/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks18
+\inpenc@posthook=\toks19
+) (c:/texlive/2020/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 1
+12.
+(c:/texlive/2020/texmf-dist/tex/latex/cyrillic/t2acmr.fd
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)) (c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip49
+For additional information on amsmath, use the `?' option.
+(c:/texlive/2020/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+(c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks20
+\ex@=\dimen137
+)) (c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen138
+) (c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count181
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count182
+\leftroot@=\count183
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count184
+\DOTSCASE@=\count185
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box46
+\strutbox@=\box47
+\big@size=\dimen139
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count186
+\c@MaxMatrixCols=\count187
+\dotsspace@=\muskip16
+\c@parentequation=\count188
+\dspbrk@lvl=\count189
+\tag@help=\toks21
+\row@=\count190
+\column@=\count191
+\maxfields@=\count192
+\andhelp@=\toks22
+\eqnshift@=\dimen140
+\alignsep@=\dimen141
+\tagshift@=\dimen142
+\tagwidth@=\dimen143
+\totwidth@=\dimen144
+\lineht@=\dimen145
+\@envbody=\toks23
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks24
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+) (c:/texlive/2020/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+(c:/texlive/2020/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (c:/texlive/2020/texmf-dist/tex/latex/doublestroke/dsfont.sty
+Package: dsfont 1995/08/01 v0.1 Double stroke roman fonts
+) (c:/texlive/2020/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+) (c:/texlive/2020/texmf-dist/tex/latex/tipa/tipa.sty
+Package: tipa 2002/08/08 TIPA version 1.1
+(c:/texlive/2020/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+(c:/texlive/2020/texmf-dist/tex/latex/tipa/t3enc.def
+File: t3enc.def 2001/12/31 T3 encoding
+Now handling font encoding T3 ...
+... no UTF-8 mapping file for font encoding T3
+LaTeX Font Info:    Trying to load font information for T2A+cmss on input line 
+357.
+(c:/texlive/2020/texmf-dist/tex/latex/cyrillic/t2acmss.fd
+File: t2acmss.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)))) (c:/texlive/2020/texmf-dist/tex/latex/relsize/relsize.sty
+Package: relsize 2013/03/29 ver 4.1
+) (c:/texlive/2020/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+) (c:/texlive/2020/texmf-dist/tex/latex/jknapltx/mathrsfs.sty
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup6
+) (c:/texlive/2020/texmf-dist/tex/latex/fundus-calligra/calligra.sty
+Package: calligra 2012/04/10 v1.9 LaTeX package calligra
+) (c:/texlive/2020/texmf-dist/tex/latex/wasysym/wasysym.sty
+Package: wasysym 2020/01/19 v2.4 Wasy-2 symbol support package
+\symwasy=\mathgroup7
+LaTeX Font Info:    Overwriting symbol font `wasy' in version `bold'
+(Font)                  U/wasy/m/n --> U/wasy/b/n on input line 93.
+) (c:/texlive/2020/texmf-dist/tex/latex/ragged2e/ragged2e.sty
+Package: ragged2e 2019/07/28 v2.2 ragged2e Package (MS)
+(c:/texlive/2020/texmf-dist/tex/latex/ms/everysel.sty
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+)
+\CenteringLeftskip=\skip52
+\RaggedLeftLeftskip=\skip53
+\RaggedRightLeftskip=\skip54
+\CenteringRightskip=\skip55
+\RaggedLeftRightskip=\skip56
+\RaggedRightRightskip=\skip57
+\CenteringParfillskip=\skip58
+\RaggedLeftParfillskip=\skip59
+\RaggedRightParfillskip=\skip60
+\JustifyingParfillskip=\skip61
+\CenteringParindent=\skip62
+\RaggedLeftParindent=\skip63
+\RaggedRightParindent=\skip64
+\JustifyingParindent=\skip65
+) (c:/texlive/2020/texmf-dist/tex/latex/physics/physics.sty
+Package: physics 
+(c:/texlive/2020/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (c:/texlive/
+2020/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2020-06-18 L3 programming layer (loader) 
+(c:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
+File: l3backend-dvips.def 2020-06-23 L3 backend support: dvips
+\l__pdf_internal_box=\box48
+\g__pdf_backend_object_int=\count193
+\l__pdf_backend_content_box=\box49
+\l__pdf_backend_model_box=\box50
+\g__pdf_backend_annotation_int=\count194
+\g__pdf_backend_link_int=\count195
+\g__pdf_backend_link_sf_int=\count196
+))
+Package: xparse 2020-05-15 L3 Experimental document command parser
+(c:/texlive/2020/texmf-dist/tex/latex/l3packages/xparse/xparse-generic.tex
+\l__xparse_current_arg_int=\count197
+\g__xparse_grabber_int=\count198
+\l__xparse_m_args_int=\count199
+\l__xparse_v_nesting_int=\count266
+))) (c:/texlive/2020/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+(c:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: dvips.def on input line 225.
+(c:/texlive/2020/texmf-dist/tex/latex/graphics-def/dvips.def
+File: dvips.def 2017/06/20 v3.1d Graphics/color driver for dvips
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+) (c:/texlive/2020/texmf-dist/tex/latex/microtype/microtype.sty
+Package: microtype 2019/11/18 v2.7d Micro-typographical refinements (RS)
+\MT@toks=\toks25
+\MT@count=\count267
+LaTeX Info: Redefining \textls on input line 790.
+\MT@outer@kern=\dimen146
+LaTeX Info: Redefining \textmicrotypecontext on input line 1354.
+\MT@listname@count=\count268
+(c:/texlive/2020/texmf-dist/tex/latex/microtype/microtype-pdftex.def
+File: microtype-pdftex.def 2019/11/18 v2.7d Definitions specific to pdftex (RS)
+
+LaTeX Info: Redefining \lsstyle on input line 914.
+LaTeX Info: Redefining \lslig on input line 914.
+\MT@outer@space=\skip66
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+(c:/texlive/2020/texmf-dist/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2019/11/18 v2.7d microtype main configuration file (RS)
+))
+No file 0734857d1afcad1a.aux.
+\openout1 = `0734857d1afcad1a.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 24.
+LaTeX Font Info:    Trying to load font information for T3+cmr on input line 24
+.
+(c:/texlive/2020/texmf-dist/tex/latex/tipa/t3cmr.fd
+File: t3cmr.fd 2001/12/31 TIPA font definitions
+)
+LaTeX Font Info:    ... okay on input line 24.
+Preview: Fontsize 10pt
+ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 24.
+LaTeX Info: Redefining \microtypecontext on input line 24.
+Package microtype Info: Generating DVI output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: No font expansion.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+(c:/texlive/2020/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
+LaTeX Font Info:    Trying to load font information for U+msa on input line 26.
+
+(c:/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+) (c:/texlive/2020/texmf-dist/tex/latex/microtype/mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 26.
+
+(c:/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) (c:/texlive/2020/texmf-dist/tex/latex/microtype/mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 26
+.
+(c:/texlive/2020/texmf-dist/tex/latex/jknapltx/ursfs.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+)
+LaTeX Font Info:    Trying to load font information for U+wasy on input line 26
+.
+(c:/texlive/2020/texmf-dist/tex/latex/wasysym/uwasy.fd
+File: uwasy.fd 2020/01/19 v2.4 Wasy-2 symbol font definitions
+)
+Preview: Tightpage 0 0 0 0
+[1] (media/Tex/0734857d1afcad1a.aux) ) 
+Here is how much of TeX's memory you used:
+ 7924 strings out of 480472
+ 115216 string characters out of 5903326
+ 407237 words of memory out of 5000000
+ 23813 multiletter control sequences out of 15000+600000
+ 539344 words of font info for 43 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 44i,9n,60p,351b,214s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on media/Tex/0734857d1afcad1a.dvi (1 page, 1712 bytes).
