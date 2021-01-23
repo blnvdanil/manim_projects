@@ -1,4 +1,4 @@
-from manimlib.imports import *
+from manim import *
 
 
 class Intro(Scene):
@@ -145,7 +145,7 @@ class Slide2(Scene):
 
         s0.shift(RIGHT * 4 + UP * 3)
 
-        self.play(FadeInFromDown(s0))
+        self.play(FadeInFrom(s0))
 
         self.wait()
 
@@ -153,7 +153,7 @@ class Slide2(Scene):
 
         s.next_to(s0, DOWN)
 
-        self.play(FadeInFromDown(s[0]))
+        self.play(FadeInFrom(s[0]))
 
         self.wait(2)
 
@@ -163,7 +163,7 @@ class Slide2(Scene):
 
         self.wait()
 
-        self.play(FadeInFromDown(s[1]))
+        self.play(FadeInFrom(s[1]))
 
         s11 = TextMobject("$O_1 - $ середина $AF$").scale(0.5)
 
@@ -171,13 +171,13 @@ class Slide2(Scene):
 
         s11.next_to(s, DOWN)
 
-        self.play(FadeInFromDown(s11))
+        self.play(FadeInFrom(s11))
 
         self.wait()
 
         s1.next_to(s11, DOWN)
 
-        self.play(FadeInFromDown(s1))
+        self.play(FadeInFrom(s1))
 
         self.wait()
 
@@ -201,7 +201,7 @@ class Slide2(Scene):
 
         self.wait()
 
-        self.play(FadeInFromDown(s2))
+        self.play(FadeInFrom(s2))
 
         self.wait()
 
@@ -232,7 +232,7 @@ class Slide2(Scene):
 
         s3.next_to(s2, DOWN)
 
-        self.play(FadeInFromDown(s3))
+        self.play(FadeInFrom(s3))
 
         self.wait()
         a = 0.58
@@ -266,7 +266,7 @@ class Slide2(Scene):
 
         s4.next_to(s3, DOWN)
 
-        self.play(FadeInFromDown(s4))
+        self.play(FadeInFrom(s4))
 
         p1 = TexMobject("a").scale(0.5)
 
@@ -323,7 +323,7 @@ class Slide2(Scene):
 
         s5.next_to(s4, DOWN)
 
-        self.play(FadeInFromDown(s5))
+        self.play(FadeInFrom(s5))
 
         self.wait()
 
@@ -363,7 +363,7 @@ class Slide2(Scene):
 
         s6.next_to(s5, DOWN)
 
-        self.play(FadeInFromDown(s6))
+        self.play(FadeInFrom(s6))
 
         self.wait()
 
@@ -371,18 +371,18 @@ class Slide2(Scene):
 
         s7.next_to(s6, DOWN)
 
-        self.play(FadeInFromDown(s7))
+        self.play(FadeInFrom(s7))
 
         self.wait()
 
         final = TexMobject("2 \cdot r \leq {a + b \over 2}").scale(0.5)
         final.next_to(s7, DOWN)
 
-        self.play(FadeInFromDown(final))
+        self.play(FadeInFrom(final))
 
         final1 = TexMobject("b = a = 2\cdot r").scale(0.5)
         final1.next_to(final, DOWN)
-        self.play(FadeInFromDown(final1))
+        self.play(FadeInFrom(final1))
 
         self.wait()
 
@@ -395,7 +395,7 @@ class Slide2(Scene):
 
         s1.next_to(gt, DOWN)
 
-        self.play(FadeInFromDown(s1))
+        self.play(FadeInFrom(s1))
 
         self.wait()
 
@@ -403,7 +403,7 @@ class Slide2(Scene):
 
         s2.next_to(s1, DOWN)
 
-        self.play(FadeInFromDown(s2))
+        self.play(FadeInFrom(s2))
 
         self.wait()
 
@@ -411,7 +411,7 @@ class Slide2(Scene):
 
         s3.next_to(s2, DOWN)
 
-        self.play(FadeInFromDown(s3))
+        self.play(FadeInFrom(s3))
 
         self.wait()
 
